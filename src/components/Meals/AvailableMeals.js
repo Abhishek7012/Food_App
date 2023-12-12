@@ -30,7 +30,7 @@ const DUMMY_MEALS = [
   },
   {
     id: 'm5',
-    name: 'paani pri',
+    name: 'paani puri',
     description: 'Healthy...and delicious...',
     price: 19.99,
   },

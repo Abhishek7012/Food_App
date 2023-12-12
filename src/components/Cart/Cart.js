@@ -10,7 +10,7 @@ const Cart = (props) => {
     <Modal onClose={props.onClose}>
       {cartItems}
       <div>
-        <span>Total Amount</span>
+        <span>{}</span>
         <span> 35.62</span>
       </div>
       <div className={classes.actions}>
